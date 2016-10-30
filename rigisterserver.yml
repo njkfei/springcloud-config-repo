@@ -14,3 +14,5 @@ eureka:
     leaseRenewalIntervalInSeconds: 10
     statusPageUrlPath: /admin/info
     healthCheckUrlPath: /admin/health
+
+message: springcloud
